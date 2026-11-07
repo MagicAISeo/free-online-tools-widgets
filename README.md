@@ -32,7 +32,7 @@ Change `word-counter` to any tool from the list below. Change `height` and the b
 
 ```html
 <div class="pst-widget" data-tool="qr-code-generator" data-height="640" data-border="#2563eb"></div>
-<script src="https://cdn.jsdelivr.net/gh/YOUR-USERNAME/free-online-tools-widgets@main/widget.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/MagicAISeo/free-online-tools-widgets@main/widget.js" defer></script>
 ```
 
 You can place several `<div class="pst-widget">` boxes on one page; the script loads once.
